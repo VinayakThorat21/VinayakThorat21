@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinyak M. Thorat
 - 👀 I’m interested in Artificial Intelligence
-- 🧡 Programming and Problem Solving with C++ is one of my current interest
+- 🧡 Programming and Problem Solving with C++ is one of my current interests
 - 🌱 I’m currently learning Flutter Development
 
 <!---
